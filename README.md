@@ -1,2 +1,2 @@
-# to-do-list-app
+# Bujo-do
 A simple To-Do List application built with HTML, CSS, and JavaScript.
